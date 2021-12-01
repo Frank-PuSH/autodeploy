@@ -1,0 +1,1 @@
+python -i 1.py
